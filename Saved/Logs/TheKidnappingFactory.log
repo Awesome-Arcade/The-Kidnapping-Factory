@@ -670,3 +670,74 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.17-11.44.44:889][580]AssetCheck: New page: Asset Save: MainMenu
 [2020.05.17-11.44.44:889][580]LogContentValidation: Display: Validating World /Game/GameContent/Maps/MainMenu.MainMenu
 [2020.05.17-11.45.03:580][235]LogSlate: Took 0.014844 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.17-11.48.40:986][447]BlueprintLog: New page: Compile MainMenu
+[2020.05.17-11.48.41:760][447]LogUObjectHash: Compacting FUObjectHashTables data took   9.05ms
+[2020.05.17-11.48.42:679][478]LogUObjectHash: Compacting FUObjectHashTables data took   8.91ms
+[2020.05.17-11.48.43:384][478]LogSavePackage: Moving '../../../../../Users/Kalin/Documents/GitHub/The-Kidnapping-Factory/Saved/MainMenuFF77361E46204CBC8203398852ADDCC6.tmp' to '../../../../../Users/Kalin/Documents/GitHub/The-Kidnapping-Factory/Content/GameContent/Maps/MainMenu.umap'
+[2020.05.17-11.48.43:453][478]LogFileHelpers: Saving map 'MainMenu' took 0.922
+[2020.05.17-11.48.43:536][478]AssetCheck: New page: Asset Save: MainMenu
+[2020.05.17-11.48.43:536][478]LogContentValidation: Display: Validating World /Game/GameContent/Maps/MainMenu.MainMenu
+[2020.05.17-11.48.46:897][589]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.05.17-11.48.46:897][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-11.48.49:326][648]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.17-11.48.49:445][648]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/GameContent/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.05.17-11.48.49:530][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.17-11.48.49:549][648]PIE: New page: PIE session: MainMenu (17 May 2020, 13:48:49)
+[2020.05.17-11.48.50:044][648]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.05.17-11.48.50:173][648]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.05.17-11.48.50:182][648]LogPlayLevel: Creating play world package: /Game/GameContent/Maps/UEDPIE_0_MainMenu
+[2020.05.17-11.48.50:219][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036282s)
+[2020.05.17-11.48.50:225][648]LogAIModule: Creating AISystem for world MainMenu
+[2020.05.17-11.48.50:229][648]LogPlayLevel: PIE: World Init took: (0.009119s)
+[2020.05.17-11.48.50:231][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameContent/Maps/MainMenu.MainMenu to /Game/GameContent/Maps/UEDPIE_0_MainMenu.MainMenu (0.049118s)
+[2020.05.17-11.48.50:358][648]LogUObjectHash: Compacting FUObjectHashTables data took   7.72ms
+[2020.05.17-11.48.50:431][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.17-11.48.50:431][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.17-11.48.50:431][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.17-11.48.50:431][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.17-11.48.50:431][648]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.17-11.48.50:431][648]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.17-11.48.50:431][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.17-11.48.50:431][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.17-11.48.50:432][648]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.17-11.48.50:432][648]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.17-11.48.50:813][648]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.17-11.48.50:813][648]LogAudioMixer: Display: Name: Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.17-11.48.50:813][648]LogAudioMixer: Display: Is Default: Yes
+[2020.05.17-11.48.50:813][648]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.17-11.48.50:813][648]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.17-11.48.50:813][648]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.17-11.48.50:813][648]LogAudioMixer: Display: Channel Order:
+[2020.05.17-11.48.50:813][648]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.17-11.48.50:813][648]LogAudioMixer: Display: 1: FrontRight
+[2020.05.17-11.48.51:932][648]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.17-11.48.51:940][648]LogInit: FAudioDevice initialized.
+[2020.05.17-11.48.52:325][648]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.17-11.48.52:342][648]LogWorld: Bringing World /Game/GameContent/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.05.17-12.48.52
+[2020.05.17-11.48.52:356][648]LogWorld: Bringing up level for play took: 0.015943
+[2020.05.17-11.48.52:361][648]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.05.17-11.48.52:642][648]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0021 seconds. Added 20 classes and 0 folders.
+[2020.05.17-11.48.53:003][648]PIE: Play in editor start time for /Game/GameContent/Maps/UEDPIE_0_MainMenu 3.88
+[2020.05.17-11.48.53:003][648]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/GameContent/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.05.17-11.49.00:095][838]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-11.49.00:111][838]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.17-11.49.00:131][838]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.17-11.49.00:226][838]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/GameContent/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.05.17-11.49.00:232][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-11.49.00:232][838]LogWorld: BeginTearingDown for /Game/GameContent/Maps/UEDPIE_0_MainMenu
+[2020.05.17-11.49.00:236][838]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-11.49.00:240][838]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.05.17-11.49.00:241][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-11.49.00:319][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.17-11.49.00:320][838]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/GameContent/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.05.17-11.49.00:338][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-11.49.00:489][838]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-11.49.00:777][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-11.49.00:917][838]LogUObjectHash: Compacting FUObjectHashTables data took  10.94ms
+[2020.05.17-11.49.00:989][839]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.05.17-11.49.08:433][ 47]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/GameContent/UI/MainMenu.MainMenu
+[2020.05.17-11.49.12:865][164]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.05.17-11.49.12:866][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-11.49.12:879][164]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.05.17-11.49.12:879][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-11.50.26:084][280]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/GameContent/UI/MainMenu.MainMenu
