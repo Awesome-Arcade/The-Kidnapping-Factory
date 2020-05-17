@@ -741,3 +741,134 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.17-11.49.12:879][164]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
 [2020.05.17-11.49.12:879][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2020.05.17-11.50.26:084][280]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/GameContent/UI/MainMenu.MainMenu
+[2020.05.17-11.52.36:069][293]BlueprintLog: New page: Compile MainMenu
+[2020.05.17-11.52.38:074][293]LogUObjectHash: Compacting FUObjectHashTables data took  16.05ms
+[2020.05.17-11.52.39:578][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/UI/MainMenu" FILE="../../../../../Users/Kalin/Documents/GitHub/The-Kidnapping-Factory/Content/GameContent/UI/MainMenu.uasset" SILENT=true
+[2020.05.17-11.52.40:328][334]LogSavePackage: Moving '../../../../../Users/Kalin/Documents/GitHub/The-Kidnapping-Factory/Saved/MainMenuBA1F96B844F27BFFA2EDF28E97E3924E.tmp' to '../../../../../Users/Kalin/Documents/GitHub/The-Kidnapping-Factory/Content/GameContent/UI/MainMenu.uasset'
+[2020.05.17-11.52.40:437][334]AssetCheck: New page: Asset Save: MainMenu
+[2020.05.17-11.52.40:438][334]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameContent/UI/MainMenu.MainMenu
+[2020.05.17-11.54.20:530][397]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.17-11.54.25:771][397]LogSlate: Window 'Copy Movie' being destroyed
+[2020.05.17-11.54.38:016][742]LogSlate: Window 'Copy Movie' being destroyed
+[2020.05.17-11.54.54:972][449]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.05.17-11.54.55:006][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-11.54.55:333][449]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.05.17-11.54.55:333][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-11.54.56:997][471]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.17-11.54.57:116][471]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/GameContent/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.05.17-11.54.57:135][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.17-11.54.57:138][471]PIE: New page: PIE session: MainMenu (17 May 2020, 13:54:57)
+[2020.05.17-11.54.57:175][471]LogPlayLevel: Creating play world package: /Game/GameContent/Maps/UEDPIE_0_MainMenu
+[2020.05.17-11.54.57:339][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.163889s)
+[2020.05.17-11.54.57:378][471]LogAIModule: Creating AISystem for world MainMenu
+[2020.05.17-11.54.57:378][471]LogPlayLevel: PIE: World Init took: (0.038907s)
+[2020.05.17-11.54.57:380][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameContent/Maps/MainMenu.MainMenu to /Game/GameContent/Maps/UEDPIE_0_MainMenu.MainMenu (0.208322s)
+[2020.05.17-11.54.57:833][471]LogUObjectHash: Compacting FUObjectHashTables data took  16.95ms
+[2020.05.17-11.54.58:485][471]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.17-11.54.58:485][471]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.17-11.54.58:485][471]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.17-11.54.58:485][471]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.17-11.54.58:485][471]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.17-11.54.58:486][471]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.17-11.54.58:486][471]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.17-11.54.58:521][471]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.17-11.54.58:532][471]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.17-11.54.58:532][471]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.17-11.54.58:838][471]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.17-11.54.58:838][471]LogAudioMixer: Display: Name: Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.17-11.54.58:838][471]LogAudioMixer: Display: Is Default: Yes
+[2020.05.17-11.54.58:838][471]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.17-11.54.58:838][471]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.17-11.54.58:838][471]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.17-11.54.58:838][471]LogAudioMixer: Display: Channel Order:
+[2020.05.17-11.54.58:838][471]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.17-11.54.58:838][471]LogAudioMixer: Display: 1: FrontRight
+[2020.05.17-11.54.59:942][471]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2020.05.17-11.54.59:958][471]LogInit: FAudioDevice initialized.
+[2020.05.17-11.55.00:196][471]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.17-11.55.00:228][471]LogWorld: Bringing World /Game/GameContent/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.05.17-12.55.00
+[2020.05.17-11.55.00:239][471]LogWorld: Bringing up level for play took: 0.018345
+[2020.05.17-11.55.00:323][471]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.05.17-11.55.00:898][471]PIE: Play in editor start time for /Game/GameContent/Maps/UEDPIE_0_MainMenu 3.775
+[2020.05.17-11.55.00:915][471]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/GameContent/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.05.17-11.55.02:661][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-11.55.02:683][516]LogNet: Browse: /Game/GameContent/Maps/Factory
+[2020.05.17-11.55.02:690][516]LogLoad: LoadMap: /Game/GameContent/Maps/Factory
+[2020.05.17-11.55.02:690][516]LogWorld: BeginTearingDown for /Game/GameContent/Maps/UEDPIE_0_MainMenu
+[2020.05.17-11.55.02:873][516]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.05.17-11.55.02:877][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-11.55.02:879][516]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-11.55.03:012][516]LogUObjectHash: Compacting FUObjectHashTables data took   7.01ms
+[2020.05.17-11.55.03:086][516]LogPlayLevel: Creating play world package: /Game/GameContent/Maps/UEDPIE_0_Factory
+[2020.05.17-11.55.03:088][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001385s)
+[2020.05.17-11.55.03:090][516]LogAIModule: Creating AISystem for world Factory
+[2020.05.17-11.55.03:092][516]LogPlayLevel: PIE: World Init took: (0.003875s)
+[2020.05.17-11.55.03:092][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameContent/Maps/Factory.Factory to /Game/GameContent/Maps/UEDPIE_0_Factory.Factory (0.005982s)
+[2020.05.17-11.55.03:092][516]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.05.17-11.55.03:094][516]LogWorld: Bringing World /Game/GameContent/Maps/UEDPIE_0_Factory.Factory up for play (max tick rate 60) at 2020.05.17-12.55.03
+[2020.05.17-11.55.03:094][516]LogWorld: Bringing up level for play took: 0.000809
+[2020.05.17-11.55.03:095][516]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.05.17-11.55.03:108][516]LogLoad: Took 0.415420 seconds to LoadMap(/Game/GameContent/Maps/UEDPIE_0_Factory)
+[2020.05.17-11.55.12:907][727]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-11.55.12:932][727]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.17-11.55.12:953][727]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.17-11.55.12:957][727]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/GameContent/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.05.17-11.55.12:959][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-11.55.12:959][727]LogWorld: BeginTearingDown for /Game/GameContent/Maps/UEDPIE_0_Factory
+[2020.05.17-11.55.12:959][727]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-11.55.12:959][727]LogWorld: UWorld::CleanupWorld for Factory, bSessionEnded=true, bCleanupResources=true
+[2020.05.17-11.55.13:020][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-11.55.13:043][727]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.17-11.55.13:045][727]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/GameContent/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/GameContent/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.05.17-11.55.13:061][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-11.55.13:195][727]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.17-11.55.13:492][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.17-11.55.13:506][727]LogUObjectHash: Compacting FUObjectHashTables data took   9.69ms
+[2020.05.17-11.55.13:664][728]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.05.17-11.55.22:698][900]LogAssetEditorSubsystem: Opening Asset editor for World /Game/GameContent/Maps/Factory.Factory
+[2020.05.17-11.55.23:064][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.05.17-11.55.25:905][900]LogSlate: Window 'Save Content' being destroyed
+[2020.05.17-11.55.27:333][900]LogSavePackage: Moving '../../../../../Users/Kalin/Documents/GitHub/The-Kidnapping-Factory/Saved/The-Kidnapping-Factory5222DBF44D7D241BCDE050BA58D1E749.tmp' to '../../../../../Users/Kalin/Documents/GitHub/The-Kidnapping-Factory/Content/GameContent/Images/The-Kidnapping-Factory.uasset'
+[2020.05.17-11.55.27:958][900]LogUObjectHash: Compacting FUObjectHashTables data took   9.83ms
+[2020.05.17-11.55.28:004][900]LogSavePackage: Moving '../../../../../Users/Kalin/Documents/GitHub/The-Kidnapping-Factory/Saved/Factory0E8744EC4161BFE8ABE90FBE2B69888C.tmp' to '../../../../../Users/Kalin/Documents/GitHub/The-Kidnapping-Factory/Content/GameContent/Maps/Factory.umap'
+[2020.05.17-11.55.28:009][900]LogFileHelpers: Saving map 'Factory' took 0.655
+[2020.05.17-11.55.30:978][900]Cmd: MAP LOAD FILE="../../../../../Users/Kalin/Documents/GitHub/The-Kidnapping-Factory/Content/GameContent/Maps/Factory.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.17-11.55.30:992][900]LightingResults: New page: Lighting Build
+[2020.05.17-11.55.31:050][900]LoadErrors: New page: Loading map: Factory.umap
+[2020.05.17-11.55.31:059][900]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.05.17-11.55.31:060][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.17-11.55.31:060][900]MapCheck: New page: Map Check
+[2020.05.17-11.55.31:060][900]LightingResults: New page: Lighting Build
+[2020.05.17-11.55.32:514][900]LogUObjectHash: Compacting FUObjectHashTables data took   9.13ms
+[2020.05.17-11.55.34:756][900]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.17-11.55.34:756][900]LogAIModule: Creating AISystem for world Factory
+[2020.05.17-11.55.34:909][900]LogUObjectHash: Compacting FUObjectHashTables data took   8.12ms
+[2020.05.17-11.55.34:948][900]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.17-11.55.34:953][900]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.803ms to complete.
+[2020.05.17-11.55.34:953][900]LogFileHelpers: Loading map 'Factory' took 6.944
+[2020.05.17-11.55.35:895][900]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.17-11.55.35:896][900]LogContentValidation: Display: Validating Texture2D /Game/GameContent/Images/The-Kidnapping-Factory.The-Kidnapping-Factory
+[2020.05.17-11.55.35:896][900]LogContentValidation: Display: Validating World /Game/GameContent/Maps/Factory.Factory
+[2020.05.17-11.55.36:168][901]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.17-11.55.47:568][195]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.17-11.56.01:434][439]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.17-11.56.13:718][731]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.17-11.56.18:438][850]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.17-11.57.01:999][902]LogActorFactory: Actor Factory created Cube
+[2020.05.17-11.57.05:307][923]LogActorFactory: Actor Factory created Cube
+[2020.05.17-11.57.07:952][968]Cmd: DELETE
+[2020.05.17-11.57.07:952][968]Cmd: ACTOR DELETE
+[2020.05.17-11.57.08:410][968]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.17-11.57.08:644][968]LogUObjectHash: Compacting FUObjectHashTables data took   8.93ms
+[2020.05.17-11.57.08:656][968]LogEditorActor: Deleted 1 Actors (0.390 secs)
+[2020.05.17-11.57.09:274][987]LogEditorViewport: Clicking on Actor (LMB): SkyAtmosphere (SkyAtmosphere)
+[2020.05.17-11.57.09:780][999]Cmd: DELETE
+[2020.05.17-11.57.09:780][999]Cmd: ACTOR DELETE
+[2020.05.17-11.57.09:783][999]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2020.05.17-11.57.09:919][999]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.05.17-11.57.09:921][999]LogEditorActor: Deleted 1 Actors (0.140 secs)
+[2020.05.17-11.58.13:089][551]LogSlate: Window 'Color Picker' being destroyed
+[2020.05.17-11.58.23:318][771]LogUObjectHash: Compacting FUObjectHashTables data took  10.55ms
+[2020.05.17-11.58.23:572][771]LogSavePackage: Moving '../../../../../Users/Kalin/Documents/GitHub/The-Kidnapping-Factory/Saved/FactoryE08493724200931D856AB8974F50364E.tmp' to '../../../../../Users/Kalin/Documents/GitHub/The-Kidnapping-Factory/Content/GameContent/Maps/Factory.umap'
+[2020.05.17-11.58.23:982][771]AssetCheck: New page: Asset Save: Factory
+[2020.05.17-11.58.23:982][771]LogContentValidation: Display: Validating World /Game/GameContent/Maps/Factory.Factory
